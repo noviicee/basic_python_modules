@@ -1,0 +1,2 @@
+# basic_python_modules
+This repository demonstrates the functions and usage of some basic modules present in python. These modules can prove to be useful while solving beginner level-questions at coding, or might even help in some advanced questions, where a lot of task is to be performed in a constraint of 'Time' and 'Space'.
