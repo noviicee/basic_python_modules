@@ -22,3 +22,4 @@ for x in range(1,int(n)+1):
     l=list(combinations(sorted(s),x))
     for i in l:
         print(''.join(i))
+        
