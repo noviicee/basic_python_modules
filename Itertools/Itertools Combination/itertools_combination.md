@@ -20,6 +20,6 @@ Combinations are emitted in lexicographic sorted order. So, if the input iterabl
 `
 
 <br/>
-[Python Code](/basic_python_modules/Itertools/Itertools Combination/itertools_combination.py)
+[Python Code](Itertools Combination/itertools_combination.py)
 
 [Exception:SpaceComplexity](/basic_python_modules/Itertools/Itertools Combination/itertools_combination_exp.py)
