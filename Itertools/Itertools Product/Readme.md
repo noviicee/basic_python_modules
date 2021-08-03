@@ -1,5 +1,4 @@
-#itertools.product()
---------------------
+# itertools.product()
 
 ->This tool computes the cartesian product of input iterables.
 
